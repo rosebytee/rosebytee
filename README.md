@@ -1,16 +1,25 @@
-### Hi there 👋
+## 📖 about me
 
-<!--
-**realrandombeans/realrandombeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📛 name: randombeans
+⚧️ pronouns: any
+🇬🇧 coumtry: united kingdom
+🌎 languages: english, partially spanish
+🕒 time zone: GMT+0 (London)
+☮️ religion: atheistic buddhism
 
-Here are some ideas to get you started:
+## ⭐ favourites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 hobbies: game development, coding, looking at userboxes on Wikipedia, contributing and such
+📺 shows: The IT Crowd, The Office (us)
+🎵 music: Jamiroquai
+🕹️ videogame: portal 2
+🖥️ os: windows 7
+🌐 browser: firefox
+🍔 food: chicken nuggets
+
+## 🚧 projects
+
+showtape central: animatronic simulation software based on the RR engine
+showtape selection: community for animatronic fans (https://showtapeselection.com/)
+
+
