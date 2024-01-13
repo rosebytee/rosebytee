@@ -2,7 +2,7 @@
        
 📛 name: randombeans    
 ⚧️ pronouns: any    
-🇬🇧 coumtry: united kingdom    
+🇬🇧 country: united kingdom    
 🌎 languages: english, partially spanish   
 🕒 time zone: GMT+0 (London)   
 ☮️ religion: atheistic buddhism   
