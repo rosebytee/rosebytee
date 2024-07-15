@@ -16,10 +16,4 @@
 🖥️ os: windows 7
 🌐 browser: firefox   
 🍔 food: chicken 
-    
-## 🚧 projects   
-   
-showtape central: animatronic simulation software based on the RR engine   
-showtape selection: community for animatronic fans (https://showtapeselection.com/)   
-
 
