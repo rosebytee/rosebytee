@@ -1,19 +1,13 @@
-## 📖 about me
-       
-📛 name: rosebyte    
-⚧️ pronouns: she/her    
-🇬🇧 country: united kingdom    
-🌎 languages: english, spanish   
-🕒 time zone: GMT+0 (London)   
-☮️ religion: buddhism   
-     
-## ⭐ favourites   
-    
-🎮 hobbies: game development, coding, looking at userboxes on Wikipedia, contributing and such   
-📺 shows: The IT Crowd, The Office (us)   
-🎵 music: Jamiroquai   
-🕹️ videogame: portal 1 and 2
-🖥️ os: windows 7
-🌐 browser: firefox   
-🍔 food: chicken 
 
+### quick facts
+i'm from the uk
+i code in c#, html and css
+depression is fun
+hot weather is shit
+
+### favourites
+game - osu, no limits 2, half life, portal
+food - chicken and burgers, love five guys (the restaurant)
+music - arctic monkeys, jamiroquai, other shit like that
+place - my room
+smell - burnt wood
