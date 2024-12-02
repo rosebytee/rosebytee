@@ -5,12 +5,12 @@
 - hot weather is shit
 
 ### favourites
-game - osu, no limits 2, half life, portal <br />
-food - chicken and burgers, love five guys (the restaurant) <br />
-music - arctic monkeys, jamiroquai, other shit like that <br />
-tv show - helluva boss 100%<br />
-place - my room <br />
-smell - burnt wood <br />
+- game - osu, no limits 2, half life, portal
+- food - chicken and burgers, love five guys (the restaurant)
+- music - arctic monkeys, jamiroquai, other shit like that
+- tv show - helluva boss 100%
+- place - my room
+- smell - burnt wood
 
 ### projects i'm working on
 - my website
