@@ -1,20 +1,20 @@
 ### quick facts
-<b>name:</b> rose
-<b>pronouns:</b> she/her
-<b>status:</b> single
-<b>location:</b> united kingdom
-<b>likes:</b> cats, rollercoasters, nature, chicken
-<b>dislikes:</b> hot weather, sugar, social situations, the monarchy
+<b>name:</b> rose<br/>
+<b>pronouns:</b> she/her<br/>
+<b>status:</b> single<br/>
+<b>location:</b> united kingdom<br/>
+<b>likes:</b> cats, rollercoasters, nature, chicken<br/>
+<b>dislikes:</b> hot weather, sugar, social situations, the monarchy<br/><br/>
 
 ### favourites
-<b>games:</b> portal 1&2, tf2, x-plane 11, vrchat, roblox and osu
-<b>books:</b> "war of the worlds" by h.g wells, and "creating my own nemesis" by john wardley
-<b>tv:</b> helluva boss, the it crowd (uk), friday night dinner
-<b>places:</b> alton towers, thorpe park, ikea
-<b>colours:</b> black and red
-<b>food:</b> chicken & burgers
-<b>drink:</b> lingonberry
-<b>seasons:</b> autumn & winter
+<b>games:</b> portal 1&2, tf2, x-plane 11, vrchat, roblox and osu<br/>
+<b>books:</b> "war of the worlds" by h.g wells, and "creating my own nemesis" by john wardley<br/>
+<b>tv:</b> helluva boss, the it crowd (uk), friday night dinner<br/>
+<b>places:</b> alton towers, thorpe park, ikea<br/>
+<b>colours:</b> black and red<br/>
+<b>food:</b> chicken & burgers<br/>
+<b>drink:</b> lingonberry<br/>
+<b>seasons:</b> autumn & winter<br/><br/>
 
 ### projects i'm working on
 - my website
